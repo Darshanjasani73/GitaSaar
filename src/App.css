@@ -1,0 +1,133 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+.sidebar {
+  box-shadow: rgb(113 122 131 / 11%) 0px 7px 30px 0px;
+}
+.nav-item,
+.navbar {
+  z-index: 10000;
+}
+@media  screen and (max-width:800px) {
+  .sidebar{
+    z-index: 10000;
+  }
+  .navbar {
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  .name{
+    font-size: 15px;
+  }
+  .p{
+    width: 90%;
+  }
+  .adhyay-summary{
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .verse{
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .text{
+    font-size:37px;
+  }
+  .mediText{
+    font-size:30px;
+    margin-left: 1pc;
+  }
+  .Clink{
+    font-size: 15px;
+  }
+}
+.mediText{
+  text-shadow: 1px 1px 0 #000, 
+  2px 2px 0 #000, 
+  3px 3px 0 #000, 
+  4px 4px 0 #000;
+  font-family:'Times New Roman', Times, serif;
+}
+.textShadow{
+  text-shadow: 1px 1px 0 #000, 
+  2px 2px 0 #000, 
+  3px 3px 0 #000, 
+  4px 4px 0 #000;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.e-dlg-center-center, .e-quick-popup-wrapper.e-device{
+  z-index: 1000000 !important;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  display: none;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(216, 216, 216);
+  border-radius: 40px;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.e-input-group:not(.e-float-icon-left), .e-input-group.e-success:not(.e-float-icon-left), .e-input-group.e-warning:not(.e-float-icon-left), .e-input-group.e-error:not(.e-float-icon-left), .e-input-group.e-control-wrapper:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-success:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-warning:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-error:not(.e-float-icon-left){
+  border: none;
+}
+.card{
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 6px 6px 12px #b8b9be, -6px -6px 12px #ffffff;
+}
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 12px 12px 24px #a8a9ad, -12px -12px 24px #ffffff;
+}
+.Clink:hover{
+  color: #28629d;
+}
+.fixed {
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; 
+}
+.adhyay-container>* {
+  margin-top: 0px;
+  padding: 15px ;
+  margin: 16px auto;
+}
+ .verse {
+  transition: background-color 0.3s ease, transform 0.3s ease; 
+}
+.verse:hover {
+  background-color: #e0e0e0; 
+  transform: scale(1.02); 
+}
+/* .no-verse {
+  margin-top: 20px;
+  color: #999999; 
+} */
+.sloka-container >*{
+  margin-top: 0px;
+  text-align: center;
+  padding: 15px ;
+  margin: 15px auto ;
+}
+
+.textjtfy{
+  text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
