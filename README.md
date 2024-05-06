@@ -1,6 +1,6 @@
 # 🪈 GitaSaar 🪶
 
-## Check it on : https://darshanjasani73.github.io/TicTacToe-with-Auth/
+## Check it on : https://gitasaar.vercel.app/
 
 GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and other team members are did hardwork with dedication and desire to this project
 
