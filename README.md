@@ -69,6 +69,8 @@ NOTE: Firstly you give voice 🎤 permission
 - NOTE👀:if you open this web application in your mobile so one problem you faced is you can't close chatbot so if you can close kindly add "/home" or other feature endpoint to the base url but in desktop this feature is working properly.
 
 ## UI:
+![Screenshot 2024-05-06 142228](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/afe14d99-1303-439c-a19c-3a284d82401d)
+
 
 
 
