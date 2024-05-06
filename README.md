@@ -68,6 +68,7 @@ NOTE: Firstly you give voice 🎤 permission
 - You can asked questions related to life, educational or spiritual and SarthiAI give answer in form of knowledge of bhagavad gita.
 - NOTE👀:if you open this web application in your mobile so one problem you faced is you can't close chatbot so if you can close kindly add "/home" or other feature endpoint to the base url but in desktop this feature is working properly.
 
+
 ## UI:
 ![Screenshot 2024-05-06 142228](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/afe14d99-1303-439c-a19c-3a284d82401d)
 ![Screenshot 2024-05-06 142355](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/c276ba22-9ce5-4e39-b88a-f96efac1e466)
@@ -79,11 +80,18 @@ NOTE: Firstly you give voice 🎤 permission
 ![Screenshot 2024-05-06 142524](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/87f3db1f-bfda-481f-a518-63bacdc1e2a7)
 ![Screenshot 2024-05-06 142539](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/30fa4b5d-2f7e-4cc8-a2aa-bd8b645884bb)
 
+## Demo 🎥
+
+https://github.com/Darshanjasani73/GitaSaar/assets/167104440/bbbfe550-27f6-4ee6-9e59-d276ba5add92
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
+
 ## Contact
 If you have any questions or suggestions, feel free to reach out ME at djasani93@gmail.com.
+
 
 ### "Embrace the timeless wisdom of the Gita with GitaSaar! 📖✨"
 
