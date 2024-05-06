@@ -21,18 +21,42 @@ GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Technologies Used
-- HTML: Utilized for the structure and layout of the game interface.
-- CSS: Used for styling elements and creating visual effects to make the game visually appealing.
-- JavaScript: Implemented the game logic and interactive functionalities.
-- Authentication: Integrated authentication feature to enable users to log in.
-- Animation: Added animations to make the game more engaging and enjoyable.
-- Voice Effects: Included voice effects to provide auditory feedback during gameplay, enhancing the overall experience.
+## Features 
 
-## Features
-- Play Tic Tac Toe against another player.
-- Enjoy visually appealing animations throughout the game.
-- Experience immersive gameplay with voice effects providing feedback.
+### All Chapters and Verses 
+- Access of all chapters and it's verses.
+- Summery in hindi of all chapters.
+- Translation and criticism of the verse with the meaning of sanskrit words.
+- Easy to naviagte one chapter to another chapter and one verse to another verse.
+  
+### Inspired by quotes of bhagavad gita 📙
+- Random Bhagavad Gita Quotes: Receive a fresh quote from the Bhagavad Gita every time you.
+- Inspiration from Ancient Wisdom: Get inspired by timeless wisdom from the Bhagavad Gita, a spiritual text revered by millions.
+
+### Summary Videos for every chapter 🎥
+- Get summery or knowledge of the whole chapter in few time.
+- Also sound interesting because of appear visuals 🖼️ with commentary.
+
+### Store
+- In "GitaStore" you get products related to Shri Krishna and Bhagavad gita 🏬
+
+### YogaSadhana
+- In this feature you get Knowledge about Asans, Mudras, Pranayam and Dhyan also get info about benifits in our life 🧘🏻
+- Also get resource of you learn all this stuff.  
+
+### Vedpuran
+- In this feature you get knowledge about Ved, Puran, upnishad and other scriptures 📚
+- Also get info about for what reason it is created and benefits and importance in our life.
+
+
+## Unique Features ♾️
+
+### Voice Command🎙️
+- for Navigate to particular chapter : speaks "Chapter Chapter Number".-
+-  
+
+
+
 
 ## How to Play
 1. Clone the repository to your local machine.
