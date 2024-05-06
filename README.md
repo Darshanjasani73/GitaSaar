@@ -19,7 +19,7 @@ GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
 🔈AnnyangJS : This is a tiny JS library that lets your visitors control your website with voice 🎤 commands 💬
 
 ## Features 
@@ -48,7 +48,7 @@ GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and
 ### Vedpuran
 - In this feature you get knowledge about Ved, Puran, upnishad and other scriptures 📚
 - Also get info about for what reason it is created and benefits and importance in our life.
-(NOTE👀: In this feature added the functionality of read and download of books but it's not work properly)
+NOTE👀: In this feature added the functionality of read and download of books but it's not work properly
 
 ## Unique Features ♾️
 
@@ -66,7 +66,7 @@ NOTE: Firstly you give voice 🎤 permission
 
 ### Chatboat Support (SarthiAI) 🤖
 - You can asked questions related to life, educational or spiritual and SarthiAI give answer in form of knowledge of bhagavad gita.
-  (NOTE👀:if you open this web application in your mobile so one problem you faced is you can't close chatbot so if you can close kindly add "/home" or other feature endpoint to the base url but in desktop this feature is working properly).
+NOTE👀:if you open this web application in your mobile so one problem you faced is you can't close chatbot so if you can close kindly add "/home" or other feature endpoint to the base url but in desktop this feature is working properly.
 
 ## UI:
 
