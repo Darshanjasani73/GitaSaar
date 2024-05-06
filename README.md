@@ -8,7 +8,7 @@ GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and
 
 🌟 Our main goal with this project is to digitally share the profound wisdom of the Bhagavad Gita with today's youth. 📱 We aim to illuminate the timeless teachings of the Gita, showing how they can enrich lives with deeper meaning, joy, and reduced stress levels. 💡 Moreover, we aspire to demonstrate how Gita's wisdom can reshape perspectives on challenges and provide valuable insights into human psychology. 🧠 Through engaging content and accessible language, we aim to make this spiritual journey both enlightening and enjoyable for our audience. 🌺 Let's spread the light of the Gita together! 🕊️
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -20,6 +20,7 @@ GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+🔈AnnyangJS : This is a tiny JS library that lets your visitors control your website with voice 🎤 commands 💬
 
 ## Features 
 
@@ -47,13 +48,28 @@ GitaSaar 🪶 is my dream project which is took time to complete 1 month .me and
 ### Vedpuran
 - In this feature you get knowledge about Ved, Puran, upnishad and other scriptures 📚
 - Also get info about for what reason it is created and benefits and importance in our life.
-
+(NOTE👀: In this feature added the functionality of read and download of books but it's not work properly)
 
 ## Unique Features ♾️
 
-### Voice Command🎙️
-- for Navigate to particular chapter : speaks "Chapter Chapter Number".-
--  
+### 🔈 Voice Command 🎙️
+NOTE: Firstly you give voice 🎤 permission
+- For Navigate to particular chapter : speaks "Chapter Chapter Number" for Ex. chapter 13.
+- For Navigate to particular Verse of chapter : speaks "Chapter :ChapterNumber Verse :VerserNumber" for Ex. chapter 7 verse 18.
+- Home section : speack "Home"
+- About section : speack "About"
+- Quotes section : speack "Quotes"
+- Store section : speack "Store"
+- Videos section : speack "Videos"
+- Yogasadhana section : speack "Yoga"
+- Vedpuran section : speack "Ved"
+
+### Chatboat Support (SarthiAI) 🤖
+- You can asked questions related to life, educational or spiritual and SarthiAI give answer in form of knowledge of bhagavad gita.
+  (NOTE👀:if you open this web application in your mobile so one problem you faced is you can't close chatbot so if you can close kindly add "/home" or other feature endpoint to the base url but in desktop this feature is working properly).
+
+## UI:
+
 
 
 
