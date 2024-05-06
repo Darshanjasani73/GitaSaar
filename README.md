@@ -1,4 +1,4 @@
-# 🪈 GitaSaar 🪶
+![Screenshot 2024-05-06 142524](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/52f2214f-1bed-4fc4-b2cd-0618bebc84e8)# 🪈 GitaSaar 🪶
 
 ## Check it on : https://gitasaar.vercel.app/
 
@@ -70,6 +70,22 @@ NOTE: Firstly you give voice 🎤 permission
 
 ## UI:
 ![Screenshot 2024-05-06 142228](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/afe14d99-1303-439c-a19c-3a284d82401d)
+![Screenshot 2024-05-06 142355](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/c276ba22-9ce5-4e39-b88a-f96efac1e466)
+![Screenshot 2024-05-06 142336](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/11861b7f-8500-4b6c-868c-f8cfca42af8b)
+![Screenshot 2024-05-06 142312](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/56010443-5d25-47a0-8ba2-245245aeedbb)
+![Screenshot 2024-05-06 142432](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/16a5edb7-5ba0-4d93-9934-7172dc3f1232)
+![Screenshot 2024-05-06 142409](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/070e68ed-3b40-4643-b609-affbd90b4897)
+![Screenshot 2024-05-06 142501](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/42f9f4cd-ee06-40c1-a6b0-a6c4e3eed034)
+![Screenshot 2024-05-06 142524](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/87f3db1f-bfda-481f-a518-63bacdc1e2a7)
+![Screenshot 2024-05-06 142539](https://github.com/Darshanjasani73/GitaSaar/assets/167104440/30fa4b5d-2f7e-4cc8-a2aa-bd8b645884bb)
+
+
+
+
+
+
+
+
 
 
 
