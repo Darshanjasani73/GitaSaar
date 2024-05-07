@@ -64,7 +64,7 @@ NOTE: Firstly you give voice 🎤 permission
 - Yogasadhana section : speack "Yoga"
 - Vedpuran section : speack "Ved"
 
-### Chatboat Support (SarthiAI) 🤖
+### Chatbot Support (SarthiAI) 🤖
 - You can asked questions related to life, educational or spiritual and SarthiAI give answer in form of knowledge of bhagavad gita.
 - NOTE👀:if you open this web application in your mobile so one problem you faced is you can't close chatbot so if you can close kindly add "/home" or other feature endpoint to the base url but in desktop this feature is working properly.
 
