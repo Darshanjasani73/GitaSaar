@@ -3,7 +3,7 @@
 ## Check it on : https://gitasaar.vercel.app/
 
 GitaSaar 🦚 is my dream project , me and other team members are did hardwork with dedication and desire to this project.
-Darshil and Jhon and another names are added
+
 
 ## About GitaSaar :
 
