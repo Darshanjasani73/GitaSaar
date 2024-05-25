@@ -35,7 +35,7 @@ GitaSaar 🦚 is my dream project , me and other team members are did hardwork w
 
 ### Inspired by quotes of bhagavad gita 📙
 
-- Random Bhagavad Gita Quotes: Receive a fresh quote from the Bhagavad Gita every time you.
+- Random Bhagavad Gita Quotes: Receive a fresh quote from the Bhagavad Gita every time.
 - Inspiration from Ancient Wisdom: Get inspired by timeless wisdom from the Bhagavad Gita, a spiritual text revered by millions.
 
 ### Summary Videos for every chapter 🎥
