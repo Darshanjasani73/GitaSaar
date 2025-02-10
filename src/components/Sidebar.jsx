@@ -2,7 +2,6 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { MdOutlineCancel } from 'react-icons/md';
 import { TooltipComponent } from '@syncfusion/ej2-react-popups';
-
 import { links } from '../data/Data';
 import { useStateContext } from '../contexts/ContextProvider';
 
@@ -15,7 +14,7 @@ const Sidebar = () => {
     }
   };
 
-  const activeLink = 'flex items-center gap-5 pl-4 pt-3 pb-2.5 rounded-lg  text-white  text-md m-2';
+  const activeLink = 'flex items-center gap-5 pl-4 pt-3 pb-2.5 rounded-lg text-white text-md m-2';
   const normalLink = 'flex items-center gap-5 pl-4 pt-3 pb-2.5 rounded-lg text-md text-gray-700 dark:text-gray-200 dark:hover:text-black hover:bg-[#F3F3F3] m-2';
 
   return (
@@ -23,7 +22,12 @@ const Sidebar = () => {
       {activeMenu && (
         <>
           <div className="flex justify-between items-center text-black">
-            <span style={{ textShadow: '2px 2px 5px rgba(0, 0, 0, 0.5)' }} className="text-[2.9rem] font-bold ml-[5px] mt-[20px] mb-[-1pc] mx-0">GitaSaar</span>
+            <span
+              style={{ textShadow: '2px 2px 5px rgba(0, 0, 0, 0.5)' }}
+              className="text-[2.9rem] font-bold ml-[5px] mt-[20px] mb-[-1pc] mx-0"
+            >
+              GitaSaar
+            </span>
             <TooltipComponent content="Menu" position="BottomCenter">
               <button
                 type="button"
@@ -35,16 +39,16 @@ const Sidebar = () => {
               </button>
             </TooltipComponent>
           </div>
-          <div className="mt-10 ">
-            {links.map((item) => (
-              <div key={item.title}>
-                <p className="text-black-800 dark:text-black-800 m-3 mt-4 uppercase">
+          <div className="mt-10">
+            {links.map((item, index) => (
+              <div key={item.title || index}> {/* Ensure unique key */}
+                <p className="text-gray-800 dark:text-gray-200 m-3 mt-4 uppercase">
                   {item.title}
                 </p>
                 {item.links.map((link) => (
                   <NavLink
                     to={`/${link.name}`}
-                    key={link.name}
+                    key={link.name} // Ensure this is unique
                     onClick={handleCloseSideBar}
                     style={({ isActive }) => ({
                       backgroundColor: isActive ? currentColor : '',
