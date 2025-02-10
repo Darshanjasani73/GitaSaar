@@ -6,9 +6,11 @@ import AdhyayCard from './AdhyayCard';
 const AdhyayCards = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
+
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
+
   useEffect(() => {
     const fetchData = async () => {
       const options = {
@@ -23,9 +25,14 @@ const AdhyayCards = () => {
 
       try {
         const response = await axios.request(options);
-        setData(response.data);
-        setLoading(false);
+        // eslint-disable-next-line no-console
+        console.log('API Response:', response.data);
+        setData(Array.isArray(response.data) ? response.data : []); // Ensure array format
       } catch (error) {
+        // eslint-disable-next-line no-console
+        console.error('Error fetching data:', error);
+        setData([]); // Avoid non-array values
+      } finally {
         setLoading(false);
       }
     };
@@ -35,10 +42,10 @@ const AdhyayCards = () => {
 
   return (
     <div className="flex flex-col items-center justify-center">
-      {loading ? (<Spinner />) : (
+      {loading ? <Spinner /> : (
         <div className="flex gap-5 flex-wrap justify-center responsive-flex">
-          {data.map((chapter, index) => (
-            <AdhyayCard key={index} chapter={chapter} />
+          {data.map((chapter) => (
+            <AdhyayCard key={chapter.id} chapter={chapter} />
           ))}
         </div>
       )}
